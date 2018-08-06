@@ -4,12 +4,12 @@
 # ---------------------------------------------------------------
 
 # Site
-title: NexT
+title: GEcko`s Home
 subtitle:
 description:
-author: John Doe
+author: GEcko
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
-language: en
+language: zh-Hans
 date_format: '%Y-%m-%d'
 
 # URL
@@ -171,7 +171,7 @@ font:
   host:
 
   # Global font settings used on <body> element.
-  global:
+  gloGEcko`s Home
     # external: true will load this font family from host.
     external: true
     family: Lato
@@ -233,7 +233,7 @@ social_icons:
 
 # Sidebar Avatar
 # in directory: /assets/images/avatar.gif
-#avatar:
+avatar: /images/avatar.png
 
 
 # Table Of Contents in the Sidebar
@@ -483,7 +483,7 @@ vkontakte_api:
   enable: false
   app_id:       #<app_id>
   like:         true
-  comments:     true
+  comments:     true /images/avatar.png
   num_of_posts: 10
 
 # Star rating support to each article.
