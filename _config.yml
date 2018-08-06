@@ -171,7 +171,7 @@ font:
   host:
 
   # Global font settings used on <body> element.
-  gloGEcko`s Home
+  global:
     # external: true will load this font family from host.
     external: true
     family: Lato
