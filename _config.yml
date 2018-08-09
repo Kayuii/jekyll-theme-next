@@ -52,10 +52,7 @@ kramdown:
       - autolink
       - footnotes
       - smart
-    use_coderay: true
-    syntax_highlighter: rouge
-    coderay:
-      coderay_line_numbers:  nil
+      - tables
 
 # Default Attributes
 ## Docs: https://jekyllrb.com/docs/configuration/#front-matter-defaults
